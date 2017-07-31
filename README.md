@@ -19,7 +19,7 @@ You will see messages printed in this order:
 received request
 blocking
 responding
-non-blocking
+non-blocking with args ['foo' '123']
 ```
 
 Note: includes both blocking and non-blocking code.
